@@ -26,7 +26,7 @@
   
   <%
   ArrayList<Profile> profiles = (ArrayList<Profile>) request.getAttribute("profiles"); 
- for(Profile profile : profiles){
+	 for(Profile profile : profiles){
 	boolean active = profile.isActive();
 	boolean blocked = profile.isBlocked();
      
