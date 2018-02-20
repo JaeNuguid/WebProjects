@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="Assets/style.css" rel="stylesheet"/>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>View Profile</title>
+<title>Profile</title>
 </head>
 <body>
 <h1>Jae's Profile Viewer</h1>
