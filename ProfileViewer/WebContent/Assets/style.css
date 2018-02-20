@@ -1,0 +1,67 @@
+body{
+	
+	padding-top: 20px;
+}
+
+
+button {
+
+  padding: 6px 10px;
+  margin-top: 8px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+table{	
+	margin-top: 30px;
+	
+}
+
+h1{
+	
+	 text-align: center;
+}
+td:first-of-type{
+	text-align: left;
+}
+img{
+	float: left;
+	margin-right: 30px;
+}
+
+
+#box {
+	padding: 50px;
+	  background-color: lightblue;
+	border-style: dotted;
+}
+
+#profile {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#profile td, #profile th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#profile tr:nth-child(even){background-color: #f2f2f2;}
+
+#profile tr:hover {background-color: #ddd;}
+
+#profile th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+#table2{
+	border: none;
+	width: 100%;
+	text-align: left;
+}
