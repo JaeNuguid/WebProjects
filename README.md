@@ -1,10 +1,10 @@
 # ProfileViewer
 - Using JSF
-## Screenshots
-List of frofiles
+## Screenshots 
+List of frofiles <br>
  <img src="https://github.com/JaeNuguid/ProfileViewer/blob/master/ProfileViewer/WebContent/Assets/Screenshots/1.png?raw=true" />
  <br>
- Single profile view
+ Single profile view <br>
  <img src="https://github.com/JaeNuguid/ProfileViewer/blob/master/ProfileViewer/WebContent/Assets/Screenshots/3.png?raw=true" />
 
 
