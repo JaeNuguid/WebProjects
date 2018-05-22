@@ -2,6 +2,7 @@
 - <a href="#ProfileViewer">Profile Viewer using JSF</a>
 - <a href="#NuguidShop">Nuguid Shop using ASP.net with Flappy Birth Game</a>
 - <a href="#JaeStore">JaeStore using ASP.net with Animated Avatar Login</a>
+- <a href="#HotelReservation">Online Hotel Reservation using ASP.net</a>
 
 <br>
 <br>
@@ -31,9 +32,9 @@ Home Page
  <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/home.PNG" />
  <br> <br>Registration Page
   <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/register.PNG" />
- <br> <br>Admin's Page - Rooms
-  <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/admin.PNG" />
  <br> <br>Admin's Page - Users
+  <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/admin.PNG" />
+ <br> <br>Admin's Page - Rooms
   <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/admin2.PNG" />
   
  <br>
