@@ -32,9 +32,9 @@ Home Page
  <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/home.PNG" />
  <br> <br>Registration Page
   <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/register.PNG" />
- <br> <br>Admin's Page - Users
-  <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/admin.PNG" />
  <br> <br>Admin's Page - Rooms
+  <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/admin.PNG" />
+ <br> <br>Admin's Page - Bookings
   <img src="https://raw.githubusercontent.com/JaeNuguid/WebProjects/master/Online%20Hotel%20Reservation/admin2.PNG" />
   
  <br>
