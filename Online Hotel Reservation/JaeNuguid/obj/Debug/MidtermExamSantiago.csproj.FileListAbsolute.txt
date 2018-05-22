@@ -1,0 +1,37 @@
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.dll.config
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.dll
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.pdb
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csprojResolveAssemblyReference.cache
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.dll
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.pdb
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.dll
+D:\BCS42\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.pdb
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.dll.config
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.dll
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.pdb
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.dll
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.pdb
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csprojResolveAssemblyReference.cache
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.dll
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.pdb
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.dll.config
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.dll
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\MidtermExamSantiago.pdb
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.dll
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.pdb
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csprojAssemblyReference.cache
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csproj.CoreCompileInputs.cache
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csproj.CopyComplete
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.dll
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\Jae.dll.config
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\Jae.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\Jae.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csprojResolveAssemblyReference.cache
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csproj.CoreCompileInputs.cache
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\MidtermExamSantiago.csproj.CopyComplete
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\Jae.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\Jae.pdb

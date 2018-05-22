@@ -1,0 +1,149 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="JaeNuguid.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title runat="server"></title>
+    <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+        -->
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" 
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+
+    
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.0/css/mdb.min.css" rel="stylesheet">
+
+    <style>
+        #logo{
+            width: 100px;
+        }
+
+        .navbar{
+            padding: 10px 0px;
+            border-bottom: hsl(89, 78%, 28%)  solid 10px;
+            background: #fff;
+        }
+        .container-fluid{
+            padding: 0px;
+        }
+        .btn-primary{
+            background-color: darkgreen!important;
+        }
+    </style>
+  
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg navbar-light ">
+            <div class="container">
+        
+                <img id="logo" src="Images/logo.png" /> <div class="navbar-brand">The best luxury Hotel in Dasmarinas</div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav ml-auto">
+                        <li id="nav1" runat="server" class="nav-item active">
+                            <a class="nav-link" href="Home.aspx">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li id="nav2" runat="server" class="nav-item">
+                            <a class="nav-link" href="Rooms.aspx">Rooms and Rates</a>
+                        </li>
+                        <li id="nav3" runat="server" class="nav-item">
+                            <a class="nav-link" href="About.aspx">About us</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Settings</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="HotelLogin.aspx">Log-in</a>
+                                <a class="dropdown-item" href="HotelRegistration.aspx">Register</a>
+                                <a class="dropdown-item" href="Home.aspx">Log-out</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div> <!-- end of nav items -->
+            </div> <!-- end of container -->
+        </nav>
+    </div>
+
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+     <!--Footer-->
+    <footer class="page-footer font-small green darken-3 pt-4 mt-4">
+
+        <!--Footer Links-->
+        <div class="container text-center text-md-left">
+            <div class="row">
+                <!--First column-->
+                <div class="col-md-6">
+                    <h3 class="text-uppercase">Contact us</h3>
+                    <p>De La Salle University - Dasmarinas, Cavite
+                        <br />Aguinaldo Hi-way, Imus, Cavite 4103
+                    </p>
+                    <ul class="list-inline">
+                        <li><strong>Michael Ian Santiago:</strong> 09063290109</li>
+                        <li><strong>Jae Allen Nuguid:</strong> 0945990834</li>
+                        <li><strong>John Ariel Asebias:</strong> 0965987263</li>
+                    </ul>
+                </div>
+                <!--/.First column-->
+
+                <!--Second column-->
+                <div class="col-md-6">
+                    <h5 class="text-uppercase">Links</h5>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="Home.aspx">Home</a>
+                        </li>
+                        <li>
+                            <a href="Rooms.aspx">Room Rates</a>
+                        </li>
+                        <li>
+                            <a href="About.aspx">About us</a>
+                        </li>
+                        <li>
+                            <a href="HotelRegistration.aspx">Register</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--/.Second column-->
+            </div>
+        </div>
+        <!--/.Footer Links-->
+
+        <!--Copyright-->
+        <div class="footer-copyright py-3 text-center">
+            © 2018 Copyright:
+            <a href="https://mdbootstrap.com/material-design-for-bootstrap/"> MDBootstrap.com </a>
+        </div>
+        <!--/.Copyright-->
+
+    </footer>
+
+    <!-- scripts are placed at the end -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script> 
+    <!-- Latest compiled and minified JavaScript -->
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
+</body>
+</html>

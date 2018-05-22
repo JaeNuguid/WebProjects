@@ -1,0 +1,10 @@
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\Jae.dll.config
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\Jae.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\Jae.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\bin\DataHelper.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\JaeNuguid.csprojResolveAssemblyReference.cache
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\JaeNuguid.csproj.CoreCompileInputs.cache
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\JaeNuguid.csproj.CopyComplete
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\Jae.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\obj\Debug\Jae.pdb

@@ -1,0 +1,130 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="JaeNuguid.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    
+    <style>
+        .logo{
+            width: 100px;
+        }
+
+        .row{
+            margin-top: 20px;
+        }
+    </style>
+
+    
+    <!-- scripts are placed at the end -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script> 
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" 
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+    
+    <!-- Custom styles for this template -->
+    <link href="dashboard.css" rel="stylesheet">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- navbar -->
+        <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
+            <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="Home.aspx">ASPdotNet Hotel</a>
+            <div class="navbar-text">Welcome, Michael!</div>
+            <ul class="navbar-nav px-3">
+                <li class="nav-item text-nowrap">
+                    <asp:LinkButton runat="server" CssClass="nav-link" href="Home.aspx" OnClick="Unnamed2_Click">Sign out</asp:LinkButton>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- main container -->
+        <div class="container-fluid">
+            <div class="row">
+                <!-- sidebar -->
+                <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+                <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a id="nav1" runat="server" class="nav-link" href="#">
+                            <span data-feather="home"></span>
+                            Dashboard <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="nav2" runat="server" class="nav-link" href="ManageUsers.aspx">
+                            <span data-feather="file"></span>
+                            Manage Users <span class="badge badge-secondary"><asp:Label Text="0" runat="server" ID="lblUsers"></asp:Label></span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="nav3" runat="server" class="nav-link active" href="ManageRoom.aspx">
+                            <span data-feather="shopping-cart"></span>
+                            Manage Rooms <span class="badge badge-secondary"><asp:Label Text="0" runat="server" ID="lblRooms"></asp:Label></span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="nav4" runat="server" class="nav-link" href="ManageBookings.aspx">
+                            <span data-feather="users"></span>
+                            Bookings
+                        </a>
+                    </li>
+
+                </ul>
+                
+                <h5 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+                    <asp:LinkButton runat="server" OnClick="Unnamed3_Click" CssClass="d-flex align-items-center text-muted" href="HotelLogin.aspx">
+
+                    <span>LOG OUT</span>
+                    </asp:LinkButton>
+                </h5>
+                    <!-- 
+                <ul class="nav flex-column mb-2">
+                    <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <span data-feather="file-text"></span>
+                        Checked in
+                    </a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <span data-feather="file-text"></span>
+                        Checked out
+                    </a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <span data-feather="file-text"></span>
+                        Transaction history
+                    </a>
+                    </li>
+                </ul>-->
+                </div>
+            </nav> <!-- end of sidebar -->
+
+                <!-- main content -->
+                <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">  
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </main> <!--end of main -->
+            </div>
+        </div>
+    </form>
+
+     <!-- scripts are placed at the end -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script> 
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+D:\BCS42\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.dll
+D:\BCS42\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.pdb
+D:\BCS42\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.dll
+D:\BCS42\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.pdb
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.dll
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.pdb
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.dll
+C:\Users\IAN\Desktop\Project Files\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.pdb
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.dll
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.pdb
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.csprojAssemblyReference.cache
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.dll
+C:\Users\ian_s\Documents\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\bin\Debug\DataHelper.pdb
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.dll
+C:\Users\jaeal\Documents\GitHub\WebProjects\Online Hotel Reservation\MidtermExamSantiago\MidtermExamSantiago\MidtermExamSantiago\DataHelper\obj\Debug\DataHelper.pdb
